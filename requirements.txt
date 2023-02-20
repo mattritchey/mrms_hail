@@ -1,0 +1,15 @@
+folium==0.12.1
+geopandas==0.10.2
+geopy==2.2.0
+joblib==1.1.0
+numpy==1.21.5
+pandas==1.4.2
+Pillow==9.4.0
+plotly==5.7.0
+rasterio==1.2.10
+requests==2.27.1
+rioxarray==0.12.2
+scikit_image==0.19.2
+streamlit==1.4.0
+streamlit_folium==0.6.15
+streamlit_plotly_events==0.0.6
